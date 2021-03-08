@@ -15,3 +15,6 @@ Business process to automate
 1.5 : For each activity of the WI5 type, perform the following steps:
 
 1.5.A : Open the Details page of the selected activity to retrieve the Client Information Details.
+
+# Detailed Process Map
+
