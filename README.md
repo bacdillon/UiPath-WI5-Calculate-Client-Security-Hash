@@ -18,3 +18,4 @@ Business process to automate
 
 # Detailed Process Map
 
+![alt text](https://github.com/bacdillon/UIPATH-Alfred-Bot/blob/main/Detailed Process Map.JPG)
