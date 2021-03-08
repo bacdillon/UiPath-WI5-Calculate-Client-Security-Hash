@@ -1,8 +1,7 @@
 # UiPath-WI5-Calculate-Client-Security-Hash
+Business process to automate
 
 ![alt text](https://github.com/bacdillon/UiPath-WI5-Calculate-Client-Security-Hash/blob/main/Documentation/PDD.JPG)
-
-Business process to automate
 
 1.1 : Open the ACME System 1 Web Application.
 
