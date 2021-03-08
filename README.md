@@ -14,6 +14,10 @@ Business process to automate
 
 1.5.A : Open the Details page of the selected activity to retrieve the Client Information Details.
 
+. . . .
+
+. . . .
+
 # Detailed Process Map
 
 ![alt text](https://github.com/bacdillon/UiPath-WI5-Calculate-Client-Security-Hash/blob/main/Documentation/Detailed%20Process%20Map.JPG)
