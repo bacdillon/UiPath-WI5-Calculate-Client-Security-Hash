@@ -1,1 +1,17 @@
 # UiPath-WI5-Calculate-Client-Security-Hash
+
+# UiPath Level 3 - Advanced Training, Exercise 1
+
+Business process to automate
+
+1.1 : Open the ACME System 1 Web Application.
+
+1.2 : Log in to System 1. Required input data: email and password.
+
+1.3 : Access the Dashboard - the central location, where the user can pick a specific menu item.
+
+1.4 : Access the Work Items listing to view all the available tasks to be performed (Output data: Work Items).
+
+1.5 : For each activity of the WI5 type, perform the following steps:
+
+1.5.A : Open the Details page of the selected activity to retrieve the Client Information Details.
