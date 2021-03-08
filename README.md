@@ -1,7 +1,5 @@
 # UiPath-WI5-Calculate-Client-Security-Hash
 
-# UiPath Level 3 - Advanced Training, Exercise 1
-
 Business process to automate
 
 1.1 : Open the ACME System 1 Web Application.
@@ -18,4 +16,4 @@ Business process to automate
 
 # Detailed Process Map
 
-![alt text](https://github.com/bacdillon/UiPath-WI5-Calculate-Client-Security-Hash/tree/main/Documentation/Detailed Process Map.JPG)
+![alt text](https://github.com/bacdillon/UiPath-WI5-Calculate-Client-Security-Hash/blob/main/Documentation/Detailed%20Process%20Map.JPG)
