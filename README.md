@@ -18,4 +18,4 @@ Business process to automate
 
 # Detailed Process Map
 
-![alt text](https://github.com/bacdillon/UIPATH-Alfred-Bot/blob/main/Detailed Process Map.JPG)
+![alt text](https://github.com/bacdillon/UiPath-WI5-Calculate-Client-Security-Hash/tree/main/Documentation/Detailed Process Map.JPG)
