@@ -22,3 +22,6 @@ Business process to automate
 # Detailed Process Map
 
 ![alt text](https://github.com/bacdillon/UiPath-WI5-Calculate-Client-Security-Hash/blob/main/Documentation/Detailed%20Process%20Map.JPG)
+
+# Bot in action
+video: https://www.youtube.com/watch?v=1x2bUy_ZH-o
